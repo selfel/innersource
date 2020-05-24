@@ -2,7 +2,7 @@
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
-###Getting started
+### Getting started
 
 - [Advantages of adopting an InnerSource strategy](adopting-innersource-strategy/)
 - [Breaking down tem silos](breaking-down-silos/)
