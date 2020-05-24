@@ -23,4 +23,9 @@
 - [Overcoming contributor friction](contributor-friction/)
 - [The Trusted Committer role (TC)](tc-role/)
 
+### Governance
+
+- [Measuring Success](metrics/)
+- [Rollout checklists](rollout-checklist/)
+
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
